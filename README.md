@@ -22,3 +22,7 @@ console.log(hash)
 ## Tests
 
 Just run `npm test`
+
+## Info
+
+Please do not use this in production, or at your own risk
