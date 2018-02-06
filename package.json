@@ -13,6 +13,10 @@
     "text",
     "password"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sfluor/pthash"
+  },
   "author": "Sami Tabet <salph.tabet@gmail.com>",
   "license": "ISC",
   "devDependencies": {
